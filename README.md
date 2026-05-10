@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="left">Gabriel Lima de Sousa</h1>
 
 ###
 
@@ -10,27 +10,27 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
@@ -46,11 +46,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/d3/d8/3e/d3d83e3152f073c9a2a0fd513f137247.jpg"  />
+<h4 align="center">Sou estudante de Engenharia de Computação com base sólida em Back-End e Engenharia de Dados. Técnico em Análise e Desenvolvimento de Sistemas pelo Senac, atuo como Estagiário em Engenharia de Dados na Metalfrio Solutions, aplicando tecnologia em soluções e processos voltados à área de dados.<br> <br>Curso o 4º semestre como bolsista 100% na Faculdade Engenheiro Salvador Arena, onde aprofundo minhas bases em lógica, matemática, algoritmos e eletrônica. Meu foco atual está em consolidar conhecimentos em dados, Back-End e múltiplas áreas da tecnologia.</h4>
 
 ###
 
-<h4 align="center">Sou estudante de Engenharia de Computação com base sólida em Back-End e Engenharia de Dados. Técnico em Análise e Desenvolvimento de Sistemas pelo Senac, atuo como Estagiário em Engenharia de Dados na Metalfrio Solutions, aplicando tecnologia em soluções e processos voltados à área de dados.<br> <br>Curso o 4º semestre como bolsista 100% na Faculdade Engenheiro Salvador Arena, onde aprofundo minhas bases em lógica, matemática, algoritmos e eletrônica. Meu foco atual está em consolidar conhecimentos em dados, Back-End e múltiplas áreas da tecnologia.</h4>
+<img align="right" height="150" src="https://i.pinimg.com/736x/d3/d8/3e/d3d83e3152f073c9a2a0fd513f137247.jpg"  />
 
 ###
 
@@ -61,11 +61,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabSkyDev/GabSkyDev/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabSkyDev/GabSkyDev/pacman-output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
-</div>
 
 ###
