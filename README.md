@@ -45,11 +45,4 @@
 
 <h4 align="center">Sou estudante de Engenharia de Computação com base sólida em Back-End e Engenharia de Dados. Técnico em Análise e Desenvolvimento de Sistemas pelo Senac, atuo como Estagiário em Engenharia de Dados na Metalfrio Solutions, aplicando tecnologia em soluções e processos voltados à área de dados.<br> <br>Curso o 4º semestre como bolsista 100% na Faculdade Engenheiro Salvador Arena, onde aprofundo minhas bases em lógica, matemática, algoritmos e eletrônica. Meu foco atual está em consolidar conhecimentos em dados, Back-End e múltiplas áreas da tecnologia.</h4>
 
-###
-
-<div align="left">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabSkyDev&show_icons=true&theme=dark&hide_border=false&bg_color=0d1117&locale=pt-br"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabSkyDev&layout=compact&langs_count=6&hide=html&theme=dark&hide_border=false&bg_color=0d1117&locale=pt-br"/>
-</div>
-
 
