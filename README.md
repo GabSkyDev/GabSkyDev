@@ -1,73 +1,71 @@
-<div align="center">
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-# Gabriel Sousa
-### Engenheiro de Dados em formação · Back-End · Engenharia de Computação
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![GitHub](https://img.shields.io/badge/GitHub-GabSkyDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabSkyDev)
-
-</div>
-
-## 👨‍💻 Sobre mim
-
-Sou estudante de **Engenharia de Computação** com base sólida em **Back-End** e **Engenharia de Dados**. Técnico em Análise e Desenvolvimento de Sistemas pelo **Senac**, atuo como **Estagiário em Engenharia de Dados na Metalfrio Solutions**, aplicando tecnologia em soluções e processos voltados à área de dados.
-
-Curso o **4º semestre** como **bolsista 100%** na **Faculdade Engenheiro Salvador Arena**, onde aprofundo minhas bases em lógica, matemática, algoritmos e eletrônica. Meu foco atual está em consolidar conhecimentos em **dados, Back-End e múltiplas áreas da tecnologia**.
-
-## 🛠️ Tecnologias & Ferramentas
-
-**Linguagens**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Back-End & APIs**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Dados**
-
-![ETL](https://img.shields.io/badge/ETL-FF4500?style=flat-square&logo=apache&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-**DevOps & Versionamento**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-## 💼 Experiência
-
-**Estagiário em Engenharia de Dados** · *Metalfrio Solutions*
-> Aplicação de conhecimentos em tecnologia para apoiar processos e soluções voltadas à área de dados.
-
-## 🎓 Formação
-
-| Curso | Instituição | Status |
-|---|---|---|
-| Engenharia de Computação | Faculdade Engenheiro Salvador Arena | 🟢 Em andamento · 4º semestre · Bolsista 100% |
-| Técnico em ADS | Senac | ✅ Concluído |
-
-## 📌 Áreas de Interesse
-
-- 🗃️ Engenharia de Dados (ETL, Modelagem, Pipelines)
-- 🧩 Estrutura de Dados & Algoritmos
-- ⚙️ Desenvolvimento Back-End
-- 🔌 Eletrônica & Sistemas Embarcados
-
-## 📊 Estatísticas GitHub
+###
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabSkyDev&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabSkyDev&layout=compact&theme=github_dark&hide_border=true&locale=pt-br)
-
+  <img src="https://raw.githubusercontent.com/GabSkyDev/GabSkyDev/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/GabSkyDev/GabSkyDev/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
+###
 
-*"A tecnologia move o mundo — e os dados revelam o caminho."*
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
 </div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gabriel-lima-de-sousa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ghostamino08" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/736x/d3/d8/3e/d3d83e3152f073c9a2a0fd513f137247.jpg"  />
+
+###
+
+<h4 align="center">Sou estudante de Engenharia de Computação com base sólida em Back-End e Engenharia de Dados. Técnico em Análise e Desenvolvimento de Sistemas pelo Senac, atuo como Estagiário em Engenharia de Dados na Metalfrio Solutions, aplicando tecnologia em soluções e processos voltados à área de dados.<br> <br>Curso o 4º semestre como bolsista 100% na Faculdade Engenheiro Salvador Arena, onde aprofundo minhas bases em lógica, matemática, algoritmos e eletrônica. Meu foco atual está em consolidar conhecimentos em dados, Back-End e múltiplas áreas da tecnologia.</h4>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabSkyDev/GabSkyDev/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabSkyDev/GabSkyDev/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabSkyDev/GabSkyDev/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
+
+###
