@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GabSkyDev/GabSkyDev/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/GabSkyDev/GabSkyDev/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabSkyDev&show_icons=true&theme=tokyonight&height=150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabSkyDev&layout=compact&theme=tokyonight&height=150" alt="languages graph" />
 </div>
 
 ###
